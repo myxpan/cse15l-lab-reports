@@ -32,3 +32,7 @@ To make a horizontal rule use "---":
 # Code
 ## Inline
 `use backticks`
+
+## Block
+  print '3 backticks'
+  print 'or 4 spaces/indent'
