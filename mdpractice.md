@@ -9,7 +9,8 @@
 Here is a link [Link](https://myxpan.github.io/cse15l-lab-reports/)
 
 # Images
-![Image](https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg)
+
+![Image](https://www.southernliving.com/thmb/xFlQn020pc1NJAl4ksr7_o_B5u4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-598083938-1-22dab883ff2a43d8b2751d9f363f2d5d.jpg)
 
 # Ways of organizing text
 ## Block
