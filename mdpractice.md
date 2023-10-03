@@ -8,6 +8,9 @@
 ## Inserting a link
 Here is a link [Link](https://myxpan.github.io/cse15l-lab-reports/)
 
+# Images
+![Image](https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg)
+
 # Ways of organizing text
 ## Block
 > Use ">" to create
