@@ -34,5 +34,5 @@ To make a horizontal rule use "---":
 `use backticks`
 
 ## Block
-  print '3 backticks'
-  print 'or 4 spaces/indent'
+    print '3 backticks'
+    print 'or 4 spaces/indent'
