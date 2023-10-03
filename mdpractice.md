@@ -16,7 +16,7 @@ Here is a link [Link](https://myxpan.github.io/cse15l-lab-reports/) to the curre
 > C
 
 ## Horizontal
-To make a horizontal line use "---":
+To make a horizontal rule use "---":
 ---
 
 ## Different lists
@@ -32,10 +32,3 @@ To make a horizontal line use "---":
 # Code
 ## Inline
 `use backticks`
-
-## Block
-'''
-# I don't know if I'm doing this right
-print 'three backticks'
-print 'or four spaces/indent'
-'''
