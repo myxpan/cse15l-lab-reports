@@ -16,7 +16,7 @@ Here is a link [Link](https://myxpan.github.io/cse15l-lab-reports/) to the curre
 > C
 
 ## Horizontal
-To make a horizontal line use "---"
+To make a horizontal line use "---":
 ---
 
 ## Different lists
