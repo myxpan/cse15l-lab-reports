@@ -6,7 +6,7 @@
 
 # Links
 ## Inserting a link
-Here is a link [Link](https://myxpan.github.io/cse15l-lab-reports/) to the current page
+Here is a link [Link](https://myxpan.github.io/cse15l-lab-reports/)
 
 # Ways of organizing text
 ## Block
