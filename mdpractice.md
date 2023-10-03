@@ -34,6 +34,3 @@ To make a horizontal line use "---"
 `use backticks`
 
 ## Block
-'''
-# I don't know if this works
-'''
